@@ -1,6 +1,6 @@
 {
   "name": "demon-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A commandline tool to generate project directory structure tree",
   "main": "src/index.js",
   "bin": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:wb-lwl383278/demon-cli.git"
+    "url": "https://github.com/Wiolem/demon-cli.git"
   },
   "keywords": [
     "cli"
   ],
-  "author": "Lee",
+  "author": "wiolem",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.19.0"
