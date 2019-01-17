@@ -5,7 +5,7 @@ A commandline tool to generate project directory structure tree
 ### Install
 
 ```
-tnpm install @alife/demon-cli -g
+npm install demon-cli -g
 ```
 
 ### Features
