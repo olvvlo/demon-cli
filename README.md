@@ -29,8 +29,8 @@ A commandline tool to generate project directory structure tree
 
 Options:
   -v, --version            output the version number
-  -p, --print              Print a directory tree in console
-  -e, --export [fileName]  Export a [fileName].md
+  -p, --print              print a directory tree in console
+  -e, --export [fileName]  export a [fileName].md
   -h, --help               output usage information
 ```
 
