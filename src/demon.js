@@ -31,7 +31,7 @@ program
 
 if (program.print) {
   scanning()
-  (async function () {
+  ;(async function () {
     await console.log(tree.drawTree())
     flag = true
   })()
@@ -39,7 +39,7 @@ if (program.print) {
 
 if (program.export) {
   scanning()
-  (async function () {
+  ;(async function () {
     await tree.exportTree(program.export = 'demon', path)
     flag = true
   })()

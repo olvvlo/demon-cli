@@ -1,6 +1,6 @@
 {
   "name": "demon-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A commandline tool to generate project directory structure tree",
   "main": "src/demon.js",
   "bin": {
