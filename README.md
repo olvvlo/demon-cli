@@ -36,7 +36,7 @@ Options:
 
 ### Ignore
 
-If you want to ignore some files, you can add *.gitignore* file into the root project directory.
+If you want to ignore some files, you can add `.gitignore` file into the root project directory.
 
 ### License
 MIT
